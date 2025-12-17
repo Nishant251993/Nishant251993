@@ -2,7 +2,7 @@
 <h3 align="center">
 .NET Developer | Backend Specialist | Cloud & GenAI Enthusiast
 </h3>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nishant251993&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
