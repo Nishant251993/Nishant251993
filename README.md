@@ -33,7 +33,10 @@
 </p>
 
 ---
-![GitHub Achievements](https://github-profile-achievements.vercel.app/api/?username=Nishant251993)
+
+<p align="center">
+  <img src="https://github-profile-achievements.vercel.app/api/?username=Nishant251993&hide_title=true&compact=true" />
+</p>
 
 ## 🏆 Achievements
 - 🟢 Pull Shark  
